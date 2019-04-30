@@ -1,0 +1,39 @@
+{
+    "applications": [
+        {
+            "id": 1,
+            "applicant": 1,
+            "application": "Java O'Reilly 2018",
+            "applied": "01.02.2019",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "applicant": 1,
+            "application": "Python Beginers Guide",
+            "applied": "01.02.2019",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "applicant": 2,
+            "application": "New laptops to 505",
+            "applied": "01.02.2019",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "applicant": 2,
+            "application": "Keyboards to 501",
+            "applied": "01.02.2019",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "applicant": 5,
+            "application": "Hackathon",
+            "applied": "01.02.2019",
+            "category": 4
+        }
+    ]
+}
