@@ -47,6 +47,38 @@
         {
             "id": 1,
             "task": "Add some tasks"
+        },
+        {
+            "id": 2,
+            "task": "Prepare presentation"
+        },
+        {
+            "id": 3,
+            "task": "Solve the problems"
+        },
+        {
+            "id": 4,
+            "task": "Write an essay"
+        },
+        {
+            "id": 5,
+            "task": "Start new rest project"
+        },
+        {
+            "id": 6,
+            "task": "Learn about post requests with axios"
+        },
+        {
+            "id": 7,
+            "task": "Write comments"
+        },
+        {
+            "id": 8,
+            "task": "Find the servers that allow create and delete request"
+        },
+        {
+            "id": 9,
+            "task": "Finish initiated project"
         }
     ]
 }
