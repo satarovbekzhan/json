@@ -44,9 +44,21 @@
         }
     ],
     "ads": [
-        "https://cdn-images-1.medium.com/max/1200/1*sxezHl8zFZiZYTg9kc81JQ.png",
-        "https://cdn.jerichowriters.com/wp-content/uploads/header-192-how-to-write-a-book.jpg",
-        "https://cdn-images-1.medium.com/max/789/1*ESWJ2dZ8xoMvpBGdQUHg2Q.jpeg",
-        "http://www.shutupwrite.com/wp-content/uploads/2018/04/blogPost_5minutewrite.jpg"
+        {
+            "id": 1,
+            "url": "https://cdn-images-1.medium.com/max/1200/1*sxezHl8zFZiZYTg9kc81JQ.png"
+        },
+        {
+            "id": 2,
+            "url": "https://cdn.jerichowriters.com/wp-content/uploads/header-192-how-to-write-a-book.jpg"
+        },
+        {
+            "id": 3,
+            "url": "https://cdn-images-1.medium.com/max/789/1*ESWJ2dZ8xoMvpBGdQUHg2Q.jpeg"
+        },
+        {
+            "id": 4,
+            "url": "http://www.shutupwrite.com/wp-content/uploads/2018/04/blogPost_5minutewrite.jpg"
+        }
     ]
 }
