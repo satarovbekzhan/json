@@ -1,64 +1,50 @@
 {
+    "user": {
+        "username": "Bekzhan Satarov",
+        "group": "AIN-2-17"
+    },
     "applications": [
         {
             "id": 1,
-            "applicant": 1,
+            "applicant": "Nurzatbek Dunganov",
             "application": "Java O'Reilly 2018",
             "applied": "01.02.2019",
-            "category": 1
+            "category": "Books"
         },
         {
             "id": 2,
-            "applicant": 1,
+            "applicant": "Nurzatbek Dunganov",
             "application": "Python Beginers Guide",
             "applied": "01.02.2019",
-            "category": 1
+            "category": "Books"
         },
         {
             "id": 3,
-            "applicant": 2,
+            "applicant": "Chyngyz Kozhokulov",
             "application": "New laptops to 505",
             "applied": "01.02.2019",
-            "category": 3
+            "category": "Laptops"
         },
         {
             "id": 4,
-            "applicant": 2,
+            "applicant": "Alybek Dandaev",
             "application": "Keyboards to 501",
             "applied": "01.02.2019",
-            "category": 3
+            "category": "Accessories"
         },
         {
             "id": 5,
-            "applicant": 5,
+            "applicant": "Alybek Dandaev",
             "application": "Hackathon",
             "applied": "01.02.2019",
-            "category": 4
+            "category": "Events"
         },
         {
             "id": 6,
-            "applicant": 5,
-            "application": "Nurzatbek",
+            "applicant": "Atai Aschat uulu",
+            "application": "Worckshop",
             "applied": "01.02.2019",
-            "category": 4
-        }
-    ],
-    "ads": [
-        {
-            "id": 1,
-            "url": "https://cdn-images-1.medium.com/max/1200/1*sxezHl8zFZiZYTg9kc81JQ.png"
-        },
-        {
-            "id": 2,
-            "url": "https://cdn.jerichowriters.com/wp-content/uploads/header-192-how-to-write-a-book.jpg"
-        },
-        {
-            "id": 3,
-            "url": "https://cdn-images-1.medium.com/max/789/1*ESWJ2dZ8xoMvpBGdQUHg2Q.jpeg"
-        },
-        {
-            "id": 4,
-            "url": "http://www.shutupwrite.com/wp-content/uploads/2018/04/blogPost_5minutewrite.jpg"
+            "category": "Events"
         }
     ]
 }
