@@ -35,6 +35,36 @@
             "size": 4.6,
             "cover": "https://m.media-amazon.com/images/I/81Fs5aJGyUL._SS500_.jpg",
             "track": "https://ccc.eaoe.cc/45ef0695a6cce87cd247d1af667a3023/WTrNsAsjEmY"
+        },
+        {
+            "id": 4,
+            "title": "Por que te vas",
+            "artist": [
+                "Jeanette Anne Dimech"
+            ],
+            "size": 5.1,
+            "cover": "https://lastfm-img2.akamaized.net/i/u/500x500/17fa534a871e43ce98eb66268759563c.jpg",
+            "track": "https://ccc.eaoe.cc/a79b1bc10af7fdc80c2cf934706549ef/y4XWlmtB8y8"
+        },
+        {
+            "id": 5,
+            "title": "Mala Fama",
+            "artist": [
+                "Danna Paola"
+            ],
+            "size": 8.3,
+            "cover": "https://elpoderdelanoticia.com/wp-content/uploads/2019/03/DANNA-PAOLA-760x490.jpg",
+            "track": "https://oaa.eaoe.cc/fc53be4810eb665de5c224302b8be1f4/vulWkgc5KYI"
+        },
+        {
+            "id": 6,
+            "title": "Lost On You",
+            "artist": [
+                "LP"
+            ],
+            "size": 8.2,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51KbABjXZDL._SY355_.jpg",
+            "track": "https://eao.eaoe.cc/02050d8801ff3e5c7a4ef8c272cd5b6c/hn3wJ1_1Zsg"
         }
     ]
 }
