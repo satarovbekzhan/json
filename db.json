@@ -2,82 +2,38 @@
     "user": {
         "username": "beksat"
     },
-    "applications": [
-        {
-            "id": 1,
-            "applicant": "Nurzatbek Dunganov",
-            "application": "Java O'Reilly 2018",
-            "applied": "01.02.2019",
-            "category": "Books"
-        },
-        {
-            "id": 2,
-            "applicant": "Nurzatbek Dunganov",
-            "application": "Python Beginers Guide",
-            "applied": "01.02.2019",
-            "category": "Books"
-        },
-        {
-            "id": 3,
-            "applicant": "Chyngyz Kozhokulov",
-            "application": "New laptops to 505",
-            "applied": "01.02.2019",
-            "category": "Laptops"
-        },
-        {
-            "id": 4,
-            "applicant": "Alybek Dandaev",
-            "application": "Keyboards to 501",
-            "applied": "01.02.2019",
-            "category": "Accessories"
-        },
-        {
-            "id": 5,
-            "applicant": "Alybek Dandaev",
-            "application": "Hackathon",
-            "applied": "01.02.2019",
-            "category": "Events"
-        },
-        {
-            "id": 6,
-            "applicant": "Atai Aschat uulu",
-            "application": "Worckshop",
-            "applied": "01.02.2019",
-            "category": "Events"
-        }
-    ],
     "results": [
         {
-            "id": 1,
-            "title": "Con Calma",
-            "artist": [
+            id: 1,
+            title: "Con Calma",
+            artist: [
                 "Daddy Yankee",
                 "Snow"
             ],
-            "genre": [
+            genre: [
                 "Reggaeton",
                 "Dancehall"
             ],
-            "date": "January 24, 2019",
-            "downloads": 18990,
-            "duration": "3 min 12 sec",
-            "cover": "https://zaycev1.com/uploads/posts/2019-01/1548463719_daddy_yankee_feat__snow_-_con_calma.jpg"
+            date: "January 24, 2019",
+            downloads: 18990,
+            duration: "3 min 12 sec",
+            cover: "https://zaycev1.com/uploads/posts/2019-01/1548463719_daddy_yankee_feat__snow_-_con_calma.jpg"
         },
         {
-            "id": 2,
-            "title": "Sin Pijama",
-            "artist": [
+            id: 2,
+            title: "Sin Pijama",
+            artist: [
                 "Becky G",
                 "Natti Natasha"
             ],
-            "genre": [
+            genre: [
                 "Reggaeton",
                 "Dancehall"
             ],
-            "date": "January 24, 2019",
-            "downloads": 29124,
-            "duration": "4 min 2 sec",
-            "cover": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2018/04/sin-pijama-1.jpg"
+            date: "January 24, 2019",
+            downloads: 29124,
+            duration: "4 min 2 sec",
+            cover: "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2018/04/sin-pijama-1.jpg"
         }
     ]
 }
