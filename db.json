@@ -1,5 +1,7 @@
 {
-    "user": "beksat",
+    "user": {
+        "username": "beksat"
+    },
     "applications": [
         {
             "id": 1,
